@@ -1,0 +1,6701 @@
+{
+  "generated_at": "2026-05-27T15:43:52.821714+00:00",
+  "products": [
+    {
+      "product_normalized": "backpack crag 35l",
+      "product_display": "Backpack Crag 35L",
+      "category": "Backpacks",
+      "first_order_date": "2026-03-28"
+    },
+    {
+      "product_normalized": "backpack daypack 25l",
+      "product_display": "Backpack Daypack 25L",
+      "category": "Backpacks",
+      "first_order_date": "2026-03-28"
+    },
+    {
+      "product_normalized": "backpack summit 65l",
+      "product_display": "Backpack Summit 65L",
+      "category": "Backpacks",
+      "first_order_date": "2026-03-29"
+    },
+    {
+      "product_normalized": "backpack trek 45l",
+      "product_display": "Backpack Trek 45L",
+      "category": "Backpacks",
+      "first_order_date": "2026-03-28"
+    },
+    {
+      "product_normalized": "cookware set titan",
+      "product_display": "Cookware Set Titan",
+      "category": "Cookware",
+      "first_order_date": "2026-03-28"
+    },
+    {
+      "product_normalized": "cookware stove compact",
+      "product_display": "Cookware Stove Compact",
+      "category": "Cookware",
+      "first_order_date": "2026-03-28"
+    },
+    {
+      "product_normalized": "sleeping bag alpine -10",
+      "product_display": "Sleeping Bag Alpine -10",
+      "category": "Sleeping",
+      "first_order_date": "2026-03-28"
+    },
+    {
+      "product_normalized": "sleeping bag summer +5",
+      "product_display": "Sleeping Bag Summer +5",
+      "category": "Sleeping",
+      "first_order_date": "2026-03-28"
+    },
+    {
+      "product_normalized": "sleeping pad inflate",
+      "product_display": "Sleeping Pad Inflate",
+      "category": "Sleeping",
+      "first_order_date": "2026-03-29"
+    },
+    {
+      "product_normalized": "tent alpine 2",
+      "product_display": "Tent Alpine 2",
+      "category": "Tents",
+      "first_order_date": "2026-03-28"
+    },
+    {
+      "product_normalized": "tent bivak solo",
+      "product_display": "Tent Bivak Solo",
+      "category": "Tents",
+      "first_order_date": "2026-03-28"
+    },
+    {
+      "product_normalized": "tent summit 3",
+      "product_display": "Tent Summit 3",
+      "category": "Tents",
+      "first_order_date": "2026-03-28"
+    }
+  ],
+  "daily": [
+    {
+      "date": "2026-03-28",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 950.0,
+      "orders": 1,
+      "spend_czk": 2063.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-03-28",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 6633.333333333332,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-28",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 24800.0,
+      "orders": 4,
+      "spend_czk": 900.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-03-28",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 2300.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-28",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 11766.666666666666,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-28",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 3066.6666666666665,
+      "orders": 1,
+      "spend_czk": 2873.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-03-28",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 16066.666666666666,
+      "orders": 6,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-28",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 5816.666666666666,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-28",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 1850.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-28",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 2400.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-29",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 13300.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-29",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 7250.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-29",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 4733.333333333333,
+      "orders": 4,
+      "spend_czk": 1488.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-03-29",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 18266.666666666664,
+      "orders": 5,
+      "spend_czk": 2964.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-03-29",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 7666.666666666666,
+      "orders": 2,
+      "spend_czk": 2362.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-03-29",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 9316.666666666666,
+      "orders": 4,
+      "spend_czk": 254.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-03-29",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 7983.333333333333,
+      "orders": 5,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-29",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 1100.0,
+      "orders": 1,
+      "spend_czk": 2755.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-03-29",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 5400.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-29",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 13800.0,
+      "orders": 5,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-29",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 13700.0,
+      "orders": 3,
+      "spend_czk": 1089.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-03-29",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 1283.3333333333333,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-30",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 3250.0,
+      "orders": 2,
+      "spend_czk": 2564.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-03-30",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 3800.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-30",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 3500.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-30",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 4650.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-30",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 7200.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-30",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 3700.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-30",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 2850.0,
+      "orders": 3,
+      "spend_czk": 1295.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-03-30",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 5600.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-30",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 2300.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-31",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 3466.6666666666665,
+      "orders": 1,
+      "spend_czk": 358.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-03-31",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 3466.6666666666665,
+      "orders": 1,
+      "spend_czk": 325.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-03-31",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 8316.666666666666,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-31",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 2550.0,
+      "orders": 2,
+      "spend_czk": 1495.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-03-31",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 4650.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-31",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 3075.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-03-31",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 1425.0,
+      "orders": 1,
+      "spend_czk": 1606.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-01",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 3250.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-01",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 3200.0,
+      "orders": 1,
+      "spend_czk": 1577.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-04-01",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 2125.0,
+      "orders": 2,
+      "spend_czk": 2316.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-01",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 22250.0,
+      "orders": 4,
+      "spend_czk": 473.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-04-01",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 5100.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-01",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 2800.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-01",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 4300.0,
+      "orders": 2,
+      "spend_czk": 2238.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-04-01",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 3075.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-01",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 4500.0,
+      "orders": 1,
+      "spend_czk": 2822.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-04-01",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 1900.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-01",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 7200.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-02",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 15550.0,
+      "orders": 5,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-02",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 5750.0,
+      "orders": 2,
+      "spend_czk": 2369.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-04-02",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 2550.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-02",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 17900.0,
+      "orders": 7,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-02",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 2100.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-02",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 4550.0,
+      "orders": 3,
+      "spend_czk": 2455.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-02",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 9000.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-02",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 2600.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-02",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 5200.0,
+      "orders": 2,
+      "spend_czk": 2521.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-04-02",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 3800.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-03",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 1900.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-03",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 3600.0,
+      "orders": 2,
+      "spend_czk": 336.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-04-03",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 3000.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-03",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 4716.666666666667,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-03",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 7200.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-03",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 2666.666666666667,
+      "orders": 2,
+      "spend_czk": 1569.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-03",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 1716.6666666666667,
+      "orders": 1,
+      "spend_czk": 2511.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-04-03",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 2400.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-03",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 1100.0,
+      "orders": 1,
+      "spend_czk": 1555.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-04",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 5100.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-04",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 14475.0,
+      "orders": 4,
+      "spend_czk": 1842.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-04-04",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 8800.0,
+      "orders": 5,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-04",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 3775.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-04",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 4600.0,
+      "orders": 4,
+      "spend_czk": 703.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-04",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 3600.0,
+      "orders": 2,
+      "spend_czk": 1547.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-04-04",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 4800.0,
+      "orders": 2,
+      "spend_czk": 2585.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-04-04",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 6400.0,
+      "orders": 2,
+      "spend_czk": 2182.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-04-04",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 3600.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-04",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 4300.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-05",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 11300.0,
+      "orders": 6,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-05",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 3500.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-05",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 7575.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-05",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 5250.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-05",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 10125.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-05",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 9000.0,
+      "orders": 2,
+      "spend_czk": 1590.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-04-05",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 17300.0,
+      "orders": 6,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-05",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 24416.666666666668,
+      "orders": 5,
+      "spend_czk": 2312.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-04-05",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 7366.666666666666,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-05",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 1500.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-05",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 8266.666666666666,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-05",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 2200.0,
+      "orders": 2,
+      "spend_czk": 2444.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-06",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 11100.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-06",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 8016.666666666667,
+      "orders": 2,
+      "spend_czk": 716.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-04-06",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 6000.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-06",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 24483.333333333332,
+      "orders": 5,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-06",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 3166.666666666667,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-06",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 3600.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-06",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 1400.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-06",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 7266.666666666666,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-06",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 3016.6666666666665,
+      "orders": 1,
+      "spend_czk": 2156.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-06",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 8433.333333333334,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-06",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 2766.666666666667,
+      "orders": 2,
+      "spend_czk": 1593.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-07",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 3000.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-07",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 4650.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-07",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 5250.0,
+      "orders": 3,
+      "spend_czk": 2771.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-04-07",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 1400.0,
+      "orders": 1,
+      "spend_czk": 2119.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-04-07",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 2550.0,
+      "orders": 1,
+      "spend_czk": 1829.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-04-07",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 2550.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-07",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 5400.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-07",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 2600.0,
+      "orders": 1,
+      "spend_czk": 1388.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-04-07",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 2350.0,
+      "orders": 1,
+      "spend_czk": 2472.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-07",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 2350.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-08",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 7650.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-08",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 8425.0,
+      "orders": 5,
+      "spend_czk": 1896.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-04-08",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 7250.0,
+      "orders": 2,
+      "spend_czk": 1777.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-04-08",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 4900.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-08",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 5700.0,
+      "orders": 2,
+      "spend_czk": 2647.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-04-08",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 6400.0,
+      "orders": 2,
+      "spend_czk": 2634.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-04-08",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 13450.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-08",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 5200.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-08",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 1650.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-08",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 5100.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-08",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 4750.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-08",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 1375.0,
+      "orders": 1,
+      "spend_czk": 822.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-09",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 1800.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-09",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 9550.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-09",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 11550.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-09",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 9075.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-09",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 8466.666666666666,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-09",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 7200.0,
+      "orders": 3,
+      "spend_czk": 2655.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-04-09",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 7050.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-09",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 7741.666666666666,
+      "orders": 3,
+      "spend_czk": 2064.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-04-09",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 5300.0,
+      "orders": 3,
+      "spend_czk": 2168.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-09",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 4500.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-09",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 3650.0,
+      "orders": 1,
+      "spend_czk": 952.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-09",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 2466.6666666666665,
+      "orders": 1,
+      "spend_czk": 1017.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-04-10",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 8550.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-10",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 8350.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-10",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 11750.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-10",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 31650.0,
+      "orders": 6,
+      "spend_czk": 366.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-04-10",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 6950.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-10",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 1175.0,
+      "orders": 1,
+      "spend_czk": 921.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-04-10",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 2125.0,
+      "orders": 2,
+      "spend_czk": 2366.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-10",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 7750.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-10",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 4100.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-10",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 4500.0,
+      "orders": 1,
+      "spend_czk": 1452.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-04-10",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 1800.0,
+      "orders": 1,
+      "spend_czk": 626.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-04-11",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 3050.0,
+      "orders": 2,
+      "spend_czk": 1291.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-04-11",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 14550.0,
+      "orders": 7,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-11",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 4800.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-11",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 950.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-11",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 11050.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-11",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 5000.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-11",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 5650.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-11",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 4350.0,
+      "orders": 3,
+      "spend_czk": 584.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-11",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 5250.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-11",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 2800.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-11",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 6200.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-11",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 9000.0,
+      "orders": 2,
+      "spend_czk": 2317.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-04-12",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 5258.333333333333,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-12",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 7533.333333333333,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-12",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 1933.3333333333333,
+      "orders": 1,
+      "spend_czk": 489.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-12",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 4500.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-12",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 16700.0,
+      "orders": 3,
+      "spend_czk": 2809.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-04-12",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 8300.0,
+      "orders": 5,
+      "spend_czk": 1410.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-04-12",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 2500.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-12",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 3325.0,
+      "orders": 3,
+      "spend_czk": 634.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-12",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 9100.0,
+      "orders": 3,
+      "spend_czk": 2455.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-04-12",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 6400.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-12",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 1600.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-13",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 9816.666666666668,
+      "orders": 5,
+      "spend_czk": 1026.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-13",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 7200.0,
+      "orders": 4,
+      "spend_czk": 1365.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-04-13",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 5566.666666666666,
+      "orders": 2,
+      "spend_czk": 1668.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-04-13",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 23466.666666666668,
+      "orders": 7,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-13",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 7683.333333333334,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-13",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 8583.333333333334,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-13",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 4050.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-13",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 2366.6666666666665,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-13",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 8308.333333333334,
+      "orders": 4,
+      "spend_czk": 2393.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-04-13",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 3033.333333333333,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-13",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 1675.0,
+      "orders": 1,
+      "spend_czk": 359.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-14",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 3166.6666666666665,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-14",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 13300.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-14",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 3166.6666666666665,
+      "orders": 1,
+      "spend_czk": 2233.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-04-14",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 1800.0,
+      "orders": 1,
+      "spend_czk": 1925.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-04-14",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 5033.333333333334,
+      "orders": 2,
+      "spend_czk": 2062.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-14",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 8433.333333333334,
+      "orders": 2,
+      "spend_czk": 734.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-04-14",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 1500.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-14",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 2400.0,
+      "orders": 1,
+      "spend_czk": 2145.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-04-14",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 950.0,
+      "orders": 1,
+      "spend_czk": 454.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-15",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 9666.666666666666,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-15",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 9200.0,
+      "orders": 3,
+      "spend_czk": 220.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-04-15",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 10683.333333333334,
+      "orders": 3,
+      "spend_czk": 360.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-04-15",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 18158.333333333336,
+      "orders": 4,
+      "spend_czk": 355.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-04-15",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 2150.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-15",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 6850.0,
+      "orders": 3,
+      "spend_czk": 1417.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-04-15",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 1650.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-15",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 1650.0,
+      "orders": 1,
+      "spend_czk": 1222.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-04-15",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 2500.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-15",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 7458.333333333334,
+      "orders": 2,
+      "spend_czk": 1820.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-15",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 4766.666666666666,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-15",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 2366.6666666666665,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-16",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 5700.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-16",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 5433.333333333334,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-16",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 15600.0,
+      "orders": 5,
+      "spend_czk": 2736.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-04-16",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 4700.0,
+      "orders": 3,
+      "spend_czk": 1900.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-16",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 2125.0,
+      "orders": 2,
+      "spend_czk": 2852.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-16",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 28433.333333333332,
+      "orders": 6,
+      "spend_czk": 2548.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-04-16",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 14708.333333333334,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-16",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 1500.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-16",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 3450.0,
+      "orders": 1,
+      "spend_czk": 1815.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-04-17",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 3800.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-17",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 3200.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-17",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 11700.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-17",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 3300.0,
+      "orders": 2,
+      "spend_czk": 1673.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-04-17",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 9283.333333333334,
+      "orders": 7,
+      "spend_czk": 218.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-17",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 4025.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-17",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 4583.333333333334,
+      "orders": 3,
+      "spend_czk": 399.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-17",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 6683.333333333334,
+      "orders": 2,
+      "spend_czk": 1770.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-04-17",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 4900.0,
+      "orders": 1,
+      "spend_czk": 1262.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-04-17",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 1800.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-17",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 4300.0,
+      "orders": 2,
+      "spend_czk": 229.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-04-17",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 2075.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-18",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 8225.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-18",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 6850.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-18",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 5750.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-18",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 7550.0,
+      "orders": 3,
+      "spend_czk": 339.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-04-18",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 3200.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-18",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 17216.666666666664,
+      "orders": 8,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-18",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 31800.0,
+      "orders": 6,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-18",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 1250.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-18",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 1250.0,
+      "orders": 1,
+      "spend_czk": 934.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-18",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 20416.666666666664,
+      "orders": 5,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-18",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 4791.666666666666,
+      "orders": 3,
+      "spend_czk": 318.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-18",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 3650.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-19",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 6816.666666666666,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-19",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 7516.666666666666,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-19",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 3166.6666666666665,
+      "orders": 1,
+      "spend_czk": 868.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-04-19",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 8750.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-19",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 10900.0,
+      "orders": 6,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-19",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 11866.666666666666,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-19",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 7275.0,
+      "orders": 5,
+      "spend_czk": 2547.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-19",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 7791.666666666667,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-19",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 7833.333333333333,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-19",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 8058.333333333333,
+      "orders": 4,
+      "spend_czk": 1954.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-19",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 9350.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-19",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 14125.0,
+      "orders": 5,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-20",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 4950.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-20",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 8150.0,
+      "orders": 5,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-20",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 4975.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-20",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 4450.0,
+      "orders": 3,
+      "spend_czk": 2641.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-04-20",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 2375.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-20",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 9550.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-20",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 6000.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-20",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 5350.0,
+      "orders": 3,
+      "spend_czk": 1244.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-04-20",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 2100.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-21",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 11150.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-21",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 9300.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-21",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 7250.0,
+      "orders": 4,
+      "spend_czk": 2438.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-04-21",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 950.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-21",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 8250.0,
+      "orders": 3,
+      "spend_czk": 1686.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-04-21",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 3200.0,
+      "orders": 1,
+      "spend_czk": 2845.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-04-21",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 3200.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-21",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 8800.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-21",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 2650.0,
+      "orders": 2,
+      "spend_czk": 217.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-04-21",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 16900.0,
+      "orders": 3,
+      "spend_czk": 1130.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-04-22",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 3600.0,
+      "orders": 2,
+      "spend_czk": 372.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-04-22",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 10250.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-22",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 13850.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-22",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 6200.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-22",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 3800.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-22",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 5550.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-22",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 1700.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-22",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 3850.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-23",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 6450.0,
+      "orders": 2,
+      "spend_czk": 1231.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-04-23",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 2600.0,
+      "orders": 1,
+      "spend_czk": 2193.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-04-23",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 2600.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-23",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 1100.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-23",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 3600.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-23",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 3850.0,
+      "orders": 1,
+      "spend_czk": 744.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-04-23",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 2400.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-23",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 1500.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-23",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 950.0,
+      "orders": 1,
+      "spend_czk": 407.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-24",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 5350.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-24",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 2150.0,
+      "orders": 1,
+      "spend_czk": 1357.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-24",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 5800.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-24",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 9700.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-24",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 1900.0,
+      "orders": 1,
+      "spend_czk": 450.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-04-24",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 12400.0,
+      "orders": 2,
+      "spend_czk": 1285.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-04-24",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 1800.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-24",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 2800.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-25",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 15425.0,
+      "orders": 5,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-25",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 2350.0,
+      "orders": 1,
+      "spend_czk": 725.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-25",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 3800.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-25",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 2800.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-25",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 4616.666666666667,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-25",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 1800.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-25",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 1400.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-25",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 4841.666666666667,
+      "orders": 3,
+      "spend_czk": 2310.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-25",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 6416.666666666667,
+      "orders": 3,
+      "spend_czk": 2070.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-04-25",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 4500.0,
+      "orders": 1,
+      "spend_czk": 1422.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-04-25",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 6400.0,
+      "orders": 2,
+      "spend_czk": 2001.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-04-25",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 6200.0,
+      "orders": 1,
+      "spend_czk": 2606.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-04-26",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 6900.0,
+      "orders": 4,
+      "spend_czk": 1774.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-26",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 8858.333333333334,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-26",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 6800.0,
+      "orders": 4,
+      "spend_czk": 1788.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-26",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 6566.666666666667,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-26",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 7841.666666666667,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-26",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 20433.333333333336,
+      "orders": 6,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-26",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 7050.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-26",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 9450.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-26",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 8700.0,
+      "orders": 2,
+      "spend_czk": 2456.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-04-26",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 6800.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-27",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 5700.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-27",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 23950.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-27",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 8550.0,
+      "orders": 3,
+      "spend_czk": 2759.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-04-27",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 16083.333333333334,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-27",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 3200.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-27",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 6800.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-27",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 4350.0,
+      "orders": 3,
+      "spend_czk": 781.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-27",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 1400.0,
+      "orders": 1,
+      "spend_czk": 1233.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-04-27",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 5833.333333333334,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-27",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 3033.3333333333335,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-27",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 2400.0,
+      "orders": 1,
+      "spend_czk": 2022.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-04-27",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 950.0,
+      "orders": 1,
+      "spend_czk": 2904.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-28",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 11800.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-28",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 9933.333333333334,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-28",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 10950.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-28",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 8250.0,
+      "orders": 3,
+      "spend_czk": 388.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-04-28",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 2200.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-28",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 7050.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-28",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 9400.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-28",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 10883.333333333334,
+      "orders": 3,
+      "spend_czk": 935.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-04-28",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 4600.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-28",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 3800.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-28",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 5258.333333333334,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-28",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 2075.0,
+      "orders": 1,
+      "spend_czk": 921.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-04-29",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 9000.0,
+      "orders": 2,
+      "spend_czk": 2327.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-04-29",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 2125.0,
+      "orders": 2,
+      "spend_czk": 2962.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-29",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 4008.333333333333,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-29",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 7916.666666666666,
+      "orders": 3,
+      "spend_czk": 1695.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-04-29",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 7299.999999999999,
+      "orders": 5,
+      "spend_czk": 1450.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-29",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 10566.666666666666,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-29",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 3600.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-29",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 2600.0,
+      "orders": 1,
+      "spend_czk": 2304.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-04-29",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 5150.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-29",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 3233.333333333333,
+      "orders": 2,
+      "spend_czk": 2773.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-04-30",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 3600.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-30",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 7950.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-30",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 3850.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-30",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 1375.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-30",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 1375.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-30",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 5350.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-30",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 5350.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-30",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 3000.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-04-30",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 4800.0,
+      "orders": 2,
+      "spend_czk": 1315.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-05-01",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 16225.0,
+      "orders": 4,
+      "spend_czk": 2313.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-05-01",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 5200.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-01",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 6400.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-01",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 2475.0,
+      "orders": 2,
+      "spend_czk": 1455.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-01",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 5800.0,
+      "orders": 3,
+      "spend_czk": 205.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-01",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 1700.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-01",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 3600.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-01",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 10000.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-01",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 2050.0,
+      "orders": 1,
+      "spend_czk": 1405.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-05-01",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 4850.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-01",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 1450.0,
+      "orders": 1,
+      "spend_czk": 2148.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-05-02",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 17983.333333333332,
+      "orders": 8,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-02",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 19183.333333333332,
+      "orders": 4,
+      "spend_czk": 1539.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-05-02",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 5700.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-02",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 12600.0,
+      "orders": 7,
+      "spend_czk": 2227.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-02",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 13633.333333333334,
+      "orders": 5,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-02",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 4633.333333333334,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-02",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 16400.0,
+      "orders": 6,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-02",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 12700.0,
+      "orders": 6,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-02",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 1950.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-02",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 6950.0,
+      "orders": 4,
+      "spend_czk": 1225.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-05-02",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 7666.666666666666,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-02",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 9900.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-03",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 21158.333333333332,
+      "orders": 9,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-03",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 13783.333333333332,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-03",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 13666.666666666666,
+      "orders": 5,
+      "spend_czk": 2381.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-05-03",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 24966.666666666664,
+      "orders": 5,
+      "spend_czk": 2807.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-05-03",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 28808.333333333336,
+      "orders": 8,
+      "spend_czk": 1382.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-05-03",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 22833.333333333336,
+      "orders": 7,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-03",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 1900.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-03",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 5625.0,
+      "orders": 3,
+      "spend_czk": 1675.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-03",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 4475.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-03",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 5466.666666666666,
+      "orders": 2,
+      "spend_czk": 2160.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-05-03",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 2066.6666666666665,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-04",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 6400.0,
+      "orders": 2,
+      "spend_czk": 808.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-05-04",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 9000.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-04",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 3433.333333333333,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-04",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 4533.333333333333,
+      "orders": 2,
+      "spend_czk": 1228.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-05-04",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 2600.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-04",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 1400.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-04",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 3300.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-04",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 3833.333333333333,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-04",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 1800.0,
+      "orders": 1,
+      "spend_czk": 426.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-05-04",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 7200.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-05",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 11233.333333333332,
+      "orders": 5,
+      "spend_czk": 2675.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-05-05",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 6133.333333333333,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-05",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 8858.333333333332,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-05",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 3483.333333333333,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-05",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 12700.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-05",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 9600.0,
+      "orders": 3,
+      "spend_czk": 1538.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-05-05",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 13575.0,
+      "orders": 3,
+      "spend_czk": 2958.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-05-05",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 4933.333333333333,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-05",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 3733.333333333333,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-05",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 1800.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-05",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 3000.0,
+      "orders": 1,
+      "spend_czk": 996.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-05-06",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 7500.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-06",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 3200.0,
+      "orders": 1,
+      "spend_czk": 2611.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-05-06",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 7700.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-06",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 1800.0,
+      "orders": 1,
+      "spend_czk": 685.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-05-06",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 950.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-06",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 14400.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-06",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 11550.0,
+      "orders": 2,
+      "spend_czk": 2535.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-05-06",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 5500.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-06",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 3550.0,
+      "orders": 2,
+      "spend_czk": 357.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-06",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 9850.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-06",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 1950.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-06",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 2100.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-07",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 6200.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-07",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 5766.666666666667,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-07",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 1100.0,
+      "orders": 1,
+      "spend_czk": 2600.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-07",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 5166.666666666666,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-07",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 1900.0,
+      "orders": 2,
+      "spend_czk": 1335.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-07",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 4766.666666666666,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-07",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 10816.666666666666,
+      "orders": 5,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-07",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 6350.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-07",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 7050.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-07",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 1566.6666666666667,
+      "orders": 1,
+      "spend_czk": 838.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-05-07",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 1566.6666666666667,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-07",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 3850.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-08",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 9075.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-08",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 8325.0,
+      "orders": 6,
+      "spend_czk": 2021.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-08",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 3050.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-08",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 20400.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-08",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 10700.0,
+      "orders": 2,
+      "spend_czk": 2827.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-05-08",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 7800.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-08",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 6150.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-08",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 3175.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-08",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 1425.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-09",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 7191.666666666667,
+      "orders": 5,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-09",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 8708.333333333334,
+      "orders": 5,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-09",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 7875.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-09",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 12050.0,
+      "orders": 5,
+      "spend_czk": 247.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-05-09",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 4500.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-09",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 23400.0,
+      "orders": 7,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-09",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 2800.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-09",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 8950.0,
+      "orders": 3,
+      "spend_czk": 2910.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-05-09",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 5058.333333333333,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-09",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 1100.0,
+      "orders": 1,
+      "spend_czk": 2495.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-09",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 1716.6666666666667,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-10",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 7633.333333333333,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-10",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 2033.3333333333333,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-10",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 12466.666666666666,
+      "orders": 7,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-10",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 9000.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-10",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 24233.333333333332,
+      "orders": 9,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-10",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 6250.0,
+      "orders": 2,
+      "spend_czk": 2896.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-05-10",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 29633.333333333332,
+      "orders": 9,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-10",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 6100.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-10",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 16016.666666666666,
+      "orders": 4,
+      "spend_czk": 2525.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-05-10",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 3450.0,
+      "orders": 1,
+      "spend_czk": 1228.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-10",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 4800.0,
+      "orders": 3,
+      "spend_czk": 221.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-10",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 9833.333333333332,
+      "orders": 5,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-11",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 10800.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-11",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 11050.0,
+      "orders": 3,
+      "spend_czk": 1321.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-05-11",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 5600.0,
+      "orders": 4,
+      "spend_czk": 878.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-05-11",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 4700.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-11",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 4850.0,
+      "orders": 2,
+      "spend_czk": 1179.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-05-11",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 1950.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-11",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 5525.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-11",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 3775.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-11",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 6200.0,
+      "orders": 1,
+      "spend_czk": 920.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-05-12",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 4475.0,
+      "orders": 3,
+      "spend_czk": 2069.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-05-12",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 7300.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-12",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 1800.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-12",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 4500.0,
+      "orders": 1,
+      "spend_czk": 1561.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-05-12",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 3075.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-12",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 5600.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-12",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 3450.0,
+      "orders": 2,
+      "spend_czk": 991.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-12",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 5350.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-13",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 3650.0,
+      "orders": 3,
+      "spend_czk": 2218.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-13",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 3050.0,
+      "orders": 2,
+      "spend_czk": 1656.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-05-13",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 3200.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-13",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 10400.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-13",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 4633.333333333333,
+      "orders": 1,
+      "spend_czk": 2104.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-05-13",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 4633.333333333333,
+      "orders": 1,
+      "spend_czk": 2411.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-05-13",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 6983.333333333333,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-13",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 2850.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-13",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 3850.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-13",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 1600.0,
+      "orders": 1,
+      "spend_czk": 833.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-05-14",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 6400.0,
+      "orders": 3,
+      "spend_czk": 2486.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-05-14",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 5350.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-14",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 5350.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-14",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 3900.0,
+      "orders": 2,
+      "spend_czk": 2679.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-14",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 7850.0,
+      "orders": 3,
+      "spend_czk": 2274.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-05-14",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 5025.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-14",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 3850.0,
+      "orders": 2,
+      "spend_czk": 2752.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-05-14",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 2375.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-14",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 3200.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-15",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 1950.0,
+      "orders": 1,
+      "spend_czk": 950.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-15",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 11466.666666666666,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-15",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 9950.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-15",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 1500.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-15",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 2400.0,
+      "orders": 1,
+      "spend_czk": 1497.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-05-15",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 950.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-15",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 5816.666666666666,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-15",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 6716.666666666666,
+      "orders": 2,
+      "spend_czk": 977.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-05-15",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 3200.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-16",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 11250.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-16",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 7016.666666666667,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-16",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 6258.333333333334,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-16",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 7725.0,
+      "orders": 3,
+      "spend_czk": 1886.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-05-16",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 7333.333333333333,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-16",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 10450.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-16",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 10050.0,
+      "orders": 2,
+      "spend_czk": 2973.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-05-16",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 2000.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-16",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 9833.333333333334,
+      "orders": 3,
+      "spend_czk": 777.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-05-16",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 4583.333333333333,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-16",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 4550.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-16",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 2150.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-17",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 6100.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-17",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 5916.666666666666,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-17",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 13250.0,
+      "orders": 4,
+      "spend_czk": 1374.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-05-17",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 10900.0,
+      "orders": 2,
+      "spend_czk": 2985.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-05-17",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 6050.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-17",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 11466.666666666666,
+      "orders": 3,
+      "spend_czk": 2846.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-05-17",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 5716.666666666666,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-17",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 2850.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-17",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 5250.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-17",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 2400.0,
+      "orders": 1,
+      "spend_czk": 813.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-05-17",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 2450.0,
+      "orders": 1,
+      "spend_czk": 204.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-18",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 5975.0,
+      "orders": 3,
+      "spend_czk": 1809.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-05-18",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 3575.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-18",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 8450.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-18",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 1900.0,
+      "orders": 1,
+      "spend_czk": 2031.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-05-18",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 2750.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-18",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 6200.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-18",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 5350.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-18",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 2350.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-18",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 6650.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-18",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 3650.0,
+      "orders": 1,
+      "spend_czk": 2981.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-05-18",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 1800.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-19",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 2075.0,
+      "orders": 1,
+      "spend_czk": 2755.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-05-19",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 2075.0,
+      "orders": 1,
+      "spend_czk": 2733.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-19",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 7300.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-19",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 10700.0,
+      "orders": 2,
+      "spend_czk": 2547.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-05-19",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 1900.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-19",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 2400.0,
+      "orders": 1,
+      "spend_czk": 500.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-05-19",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 1600.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-19",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 3400.0,
+      "orders": 2,
+      "spend_czk": 1510.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-05-20",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 6366.666666666666,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-20",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 950.0,
+      "orders": 1,
+      "spend_czk": 812.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-20",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 8500.0,
+      "orders": 3,
+      "spend_czk": 1222.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-05-20",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 3000.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-20",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 14000.0,
+      "orders": 6,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-20",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 9100.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-20",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 13733.333333333334,
+      "orders": 3,
+      "spend_czk": 2396.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-05-20",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 8683.333333333332,
+      "orders": 3,
+      "spend_czk": 2488.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-05-20",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 19816.666666666668,
+      "orders": 5,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-20",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 6033.333333333334,
+      "orders": 2,
+      "spend_czk": 2879.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-05-20",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 4166.666666666667,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-20",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 1500.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-21",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 6200.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-21",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 3300.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-21",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 10100.0,
+      "orders": 4,
+      "spend_czk": 1673.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-05-21",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 11433.333333333334,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-21",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 4400.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-21",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 4500.0,
+      "orders": 1,
+      "spend_czk": 1491.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-05-21",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 2633.3333333333335,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-21",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 6733.333333333334,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-21",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 12400.0,
+      "orders": 2,
+      "spend_czk": 2815.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-05-21",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 1950.0,
+      "orders": 1,
+      "spend_czk": 1529.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-21",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 950.0,
+      "orders": 1,
+      "spend_czk": 295.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-21",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 2150.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-22",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 4050.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-22",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 7600.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-22",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 2800.0,
+      "orders": 2,
+      "spend_czk": 211.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-05-22",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 6400.0,
+      "orders": 2,
+      "spend_czk": 2776.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-05-22",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 3516.666666666667,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-22",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 4816.666666666667,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-22",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 4016.666666666667,
+      "orders": 2,
+      "spend_czk": 758.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-05-22",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 4500.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-22",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 1850.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-23",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 17033.333333333332,
+      "orders": 5,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-23",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 11100.0,
+      "orders": 2,
+      "spend_czk": 566.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-05-23",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 2500.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-23",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 14016.666666666666,
+      "orders": 7,
+      "spend_czk": 871.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-05-23",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 18450.0,
+      "orders": 5,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-23",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 10450.0,
+      "orders": 5,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-23",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 10100.0,
+      "orders": 4,
+      "spend_czk": 1203.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-05-23",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 5650.0,
+      "orders": 4,
+      "spend_czk": 2079.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-05-23",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 8666.666666666666,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-23",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 8366.666666666666,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-23",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 2166.6666666666665,
+      "orders": 1,
+      "spend_czk": 639.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-24",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 11200.0,
+      "orders": 5,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-24",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 11866.666666666666,
+      "orders": 6,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-24",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 7066.666666666666,
+      "orders": 3,
+      "spend_czk": 407.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-05-24",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 7266.666666666666,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-24",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 6400.0,
+      "orders": 2,
+      "spend_czk": 214.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-05-24",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 8166.666666666666,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-24",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 9150.0,
+      "orders": 5,
+      "spend_czk": 1747.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-05-24",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 6200.0,
+      "orders": 1,
+      "spend_czk": 2792.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-05-24",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 950.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-24",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 11783.333333333332,
+      "orders": 6,
+      "spend_czk": 268.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-24",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 5050.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-24",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 2950.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-25",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 3225.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-25",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 7941.666666666666,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-25",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 13966.666666666666,
+      "orders": 6,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-25",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 11633.333333333332,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-25",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 7450.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-25",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 18550.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-25",
+      "product_raw": "Backpack Daypack 25L",
+      "product_normalized": "backpack daypack 25l",
+      "revenue_czk": 3833.333333333333,
+      "orders": 2,
+      "spend_czk": 2927.0,
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-05-25",
+      "product_raw": "Sleeping Bag Alpine -10",
+      "product_normalized": "sleeping bag alpine -10",
+      "revenue_czk": 10450.0,
+      "orders": 3,
+      "spend_czk": 2138.0,
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-05-25",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 8350.0,
+      "orders": 2,
+      "spend_czk": 1604.0,
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-05-25",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 1900.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-25",
+      "product_raw": "Backpack Trek 45L",
+      "product_normalized": "backpack trek 45l",
+      "revenue_czk": 1750.0,
+      "orders": 1,
+      "spend_czk": 1273.0,
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-05-25",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 1750.0,
+      "orders": 1,
+      "spend_czk": 373.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-26",
+      "product_raw": "Cookware Set Titan",
+      "product_normalized": "cookware set titan",
+      "revenue_czk": 5800.0,
+      "orders": 2,
+      "spend_czk": 329.0,
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-05-26",
+      "product_raw": "Tent Summit 3",
+      "product_normalized": "tent summit 3",
+      "revenue_czk": 14700.0,
+      "orders": 3,
+      "spend_czk": 308.0,
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-05-26",
+      "product_raw": "Sleeping Pad Inflate",
+      "product_normalized": "sleeping pad inflate",
+      "revenue_czk": 2350.0,
+      "orders": 1,
+      "spend_czk": 359.0,
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-26",
+      "product_raw": "Backpack Summit 65L",
+      "product_normalized": "backpack summit 65l",
+      "revenue_czk": 11050.0,
+      "orders": 4,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-26",
+      "product_raw": "Sleeping Bag Summer +5",
+      "product_normalized": "sleeping bag summer +5",
+      "revenue_czk": 5100.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-26",
+      "product_raw": "Tent Bivak Solo",
+      "product_normalized": "tent bivak solo",
+      "revenue_czk": 6850.0,
+      "orders": 2,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-26",
+      "product_raw": "Backpack Crag 35L",
+      "product_normalized": "backpack crag 35l",
+      "revenue_czk": 5675.0,
+      "orders": 3,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-26",
+      "product_raw": "Tent Alpine 2",
+      "product_normalized": "tent alpine 2",
+      "revenue_czk": 4500.0,
+      "orders": 1,
+      "spend_czk": 0.0,
+      "visual_hook": "",
+      "intent_framing": ""
+    },
+    {
+      "date": "2026-05-26",
+      "product_raw": "Cookware Stove Compact",
+      "product_normalized": "cookware stove compact",
+      "revenue_czk": 1425.0,
+      "orders": 1,
+      "spend_czk": 2878.0,
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    }
+  ],
+  "unmatched_ad_spend": [
+    {
+      "date": "2026-03-28",
+      "campaign": "Sleep Light",
+      "product": "Sleeping Pad Inflate",
+      "spend_czk": "1029",
+      "impressions": "109074",
+      "clicks": "2142",
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-03-30",
+      "campaign": "Backpack Hero",
+      "product": "Backpack Trek 45L",
+      "spend_czk": "2651",
+      "impressions": "275704",
+      "clicks": "6343",
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-03-30",
+      "campaign": "Spring Tents Push",
+      "product": "Tent Alpine 2",
+      "spend_czk": "2095",
+      "impressions": "190645",
+      "clicks": "5355",
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-03-31",
+      "campaign": "Sleep Warm",
+      "product": "Sleeping Bag Alpine -10",
+      "spend_czk": "1468",
+      "impressions": "149736",
+      "clicks": "2091",
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-04-02",
+      "campaign": "Compact Stove",
+      "product": "Cookware Stove Compact",
+      "spend_czk": "2999",
+      "impressions": "269910",
+      "clicks": "8914",
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-03",
+      "campaign": "Spring Tents Push",
+      "product": "Tent Alpine 2",
+      "spend_czk": "651",
+      "impressions": "69657",
+      "clicks": "1129",
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-04-03",
+      "campaign": "Summit Pro",
+      "product": "Tent Summit 3",
+      "spend_czk": "2124",
+      "impressions": "163548",
+      "clicks": "2940",
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-04-04",
+      "campaign": "Summit Pro",
+      "product": "Tent Summit 3",
+      "spend_czk": "2166",
+      "impressions": "177612",
+      "clicks": "2196",
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-04-07",
+      "campaign": "Compact Stove",
+      "product": "Cookware Stove Compact",
+      "spend_czk": "2789",
+      "impressions": "209175",
+      "clicks": "7739",
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-10",
+      "campaign": "Backpack Hero",
+      "product": "Backpack Trek 45L",
+      "spend_czk": "2656",
+      "impressions": "254976",
+      "clicks": "4141",
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-04-20",
+      "campaign": "Sleep Warm",
+      "product": "Sleeping Bag Alpine -10",
+      "spend_czk": "1783",
+      "impressions": "181866",
+      "clicks": "5653",
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-04-20",
+      "campaign": "Spring Tents Push",
+      "product": "Tent Alpine 2",
+      "spend_czk": "479",
+      "impressions": "42631",
+      "clicks": "955",
+      "visual_hook": "Pitch in 60 seconds",
+      "intent_framing": "FOMO summer launch"
+    },
+    {
+      "date": "2026-04-22",
+      "campaign": "Daypack Daily",
+      "product": "Backpack Daypack 25L",
+      "spend_czk": "660",
+      "impressions": "56760",
+      "clicks": "783",
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-04-22",
+      "campaign": "Compact Stove",
+      "product": "Cookware Stove Compact",
+      "spend_czk": "2197",
+      "impressions": "213109",
+      "clicks": "7526",
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-24",
+      "campaign": "Compact Stove",
+      "product": "Cookware Stove Compact",
+      "spend_czk": "295",
+      "impressions": "28025",
+      "clicks": "982",
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-26",
+      "campaign": "Daypack Daily",
+      "product": "Backpack Daypack 25L",
+      "spend_czk": "2598",
+      "impressions": "280584",
+      "clicks": "8348",
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-04-30",
+      "campaign": "Sleep Light",
+      "product": "Sleeping Pad Inflate",
+      "spend_czk": "1744",
+      "impressions": "190096",
+      "clicks": "4246",
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-04-30",
+      "campaign": "Daypack Daily",
+      "product": "Backpack Daypack 25L",
+      "spend_czk": "1982",
+      "impressions": "200182",
+      "clicks": "6818",
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-05-04",
+      "campaign": "Compact Stove",
+      "product": "Cookware Stove Compact",
+      "spend_czk": "1082",
+      "impressions": "83314",
+      "clicks": "1801",
+      "visual_hook": "Single-hand assembly clip",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-04",
+      "campaign": "Summit Pro",
+      "product": "Tent Summit 3",
+      "spend_czk": "2502",
+      "impressions": "227682",
+      "clicks": "7271",
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-05-08",
+      "campaign": "Sleep Warm",
+      "product": "Sleeping Bag Alpine -10",
+      "spend_czk": "2470",
+      "impressions": "180310",
+      "clicks": "2826",
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-05-08",
+      "campaign": "Backpack Hero",
+      "product": "Backpack Trek 45L",
+      "spend_czk": "2172",
+      "impressions": "160728",
+      "clicks": "2932",
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-05-11",
+      "campaign": "Sleep Light",
+      "product": "Sleeping Pad Inflate",
+      "spend_czk": "1879",
+      "impressions": "197295",
+      "clicks": "5262",
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-11",
+      "campaign": "Sleep Warm",
+      "product": "Sleeping Bag Alpine -10",
+      "spend_czk": "1716",
+      "impressions": "116688",
+      "clicks": "1723",
+      "visual_hook": "Frost on tent fabric macro",
+      "intent_framing": "Cold-weather pain solve"
+    },
+    {
+      "date": "2026-05-12",
+      "campaign": "Summit Pro",
+      "product": "Tent Summit 3",
+      "spend_czk": "603",
+      "impressions": "48843",
+      "clicks": "837",
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-05-13",
+      "campaign": "Backpack Hero",
+      "product": "Backpack Trek 45L",
+      "spend_czk": "2955",
+      "impressions": "268905",
+      "clicks": "9176",
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-05-15",
+      "campaign": "Summit Pro",
+      "product": "Tent Summit 3",
+      "spend_czk": "865",
+      "impressions": "76120",
+      "clicks": "2320",
+      "visual_hook": "Group laughing in tent at dawn",
+      "intent_framing": "Social aspirational"
+    },
+    {
+      "date": "2026-05-15",
+      "campaign": "Daypack Daily",
+      "product": "Backpack Daypack 25L",
+      "spend_czk": "687",
+      "impressions": "65265",
+      "clicks": "2227",
+      "visual_hook": "Commuter to weekend cut",
+      "intent_framing": "Versatility"
+    },
+    {
+      "date": "2026-05-15",
+      "campaign": "Cookware Hack",
+      "product": "Cookware Set Titan",
+      "spend_czk": "2446",
+      "impressions": "212802",
+      "clicks": "4386",
+      "visual_hook": "Boil water in 90s timer",
+      "intent_framing": "Practical demo"
+    },
+    {
+      "date": "2026-05-19",
+      "campaign": "Sleep Light",
+      "product": "Sleeping Pad Inflate",
+      "spend_czk": "2885",
+      "impressions": "314465",
+      "clicks": "10772",
+      "visual_hook": "10s inflation timelapse",
+      "intent_framing": "Convenience"
+    },
+    {
+      "date": "2026-05-26",
+      "campaign": "Backpack Hero",
+      "product": "Backpack Trek 45L",
+      "spend_czk": "1377",
+      "impressions": "136323",
+      "clicks": "3440",
+      "visual_hook": "Mountain ridge sunset b-roll",
+      "intent_framing": "Aspirational adventure"
+    },
+    {
+      "date": "2026-05-27",
+      "campaign": "Proto Stealth",
+      "product": "Tent UNRELEASED PROTO",
+      "spend_czk": "450",
+      "impressions": "38000",
+      "clicks": "720",
+      "visual_hook": "Concept render",
+      "intent_framing": "Pre-launch tease"
+    }
+  ]
+}

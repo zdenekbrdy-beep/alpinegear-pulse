@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" font-family="Inter, system-ui, sans-serif">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#1F3D2B"/>
+    </marker>
+    <style>
+      .box { fill: #E8E0D0; stroke: #1F3D2B; stroke-width: 1.5; }
+      .box-dark { fill: #1F3D2B; stroke: #1F3D2B; }
+      .label { font-size: 13px; fill: #1A1F1B; }
+      .label-light { font-size: 13px; fill: #F5F1EA; }
+      .sub { font-size: 10px; fill: #1A1F1B; opacity: 0.7; font-family: "JetBrains Mono", ui-monospace, monospace; }
+      .sub-light { font-size: 10px; fill: #F5F1EA; opacity: 0.85; font-family: "JetBrains Mono", ui-monospace, monospace; }
+      .line { stroke: #1F3D2B; stroke-width: 1.5; fill: none; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="800" height="320" fill="#F5F1EA"/>
+
+  <!-- Sheets tabs -->
+  <rect class="box" x="30" y="40" width="150" height="70" rx="10"/>
+  <text class="label" x="105" y="70" text-anchor="middle">Orders sheet</text>
+  <text class="sub" x="105" y="90" text-anchor="middle">Google Sheets</text>
+
+  <rect class="box" x="30" y="190" width="150" height="70" rx="10"/>
+  <text class="label" x="105" y="220" text-anchor="middle">Ad Spend sheet</text>
+  <text class="sub" x="105" y="240" text-anchor="middle">Google Sheets</text>
+
+  <!-- arrows to GitHub Actions -->
+  <path class="line" d="M180 75 Q 230 75 250 150" marker-end="url(#arrow)"/>
+  <path class="line" d="M180 225 Q 230 225 250 150" marker-end="url(#arrow)"/>
+
+  <!-- GitHub Actions -->
+  <rect class="box-dark" x="250" y="115" width="170" height="80" rx="10"/>
+  <text class="label-light" x="335" y="145" text-anchor="middle">GitHub Actions</text>
+  <text class="sub-light" x="335" y="165" text-anchor="middle">cron 0 4 * * * UTC</text>
+  <text class="sub-light" x="335" y="180" text-anchor="middle">Python sync</text>
+
+  <!-- arrow to snapshot -->
+  <path class="line" d="M420 155 L 470 155" marker-end="url(#arrow)"/>
+
+  <!-- snapshot.json -->
+  <rect class="box" x="470" y="115" width="150" height="80" rx="10"/>
+  <text class="label" x="545" y="148" text-anchor="middle">snapshot.json</text>
+  <text class="sub" x="545" y="165" text-anchor="middle">committed to repo</text>
+  <text class="sub" x="545" y="180" text-anchor="middle">audit log free</text>
+
+  <!-- arrow to Vercel -->
+  <path class="line" d="M620 155 L 670 155" marker-end="url(#arrow)"/>
+
+  <!-- Vercel -->
+  <rect class="box-dark" x="670" y="115" width="110" height="80" rx="10"/>
+  <text class="label-light" x="725" y="148" text-anchor="middle">Vercel</text>
+  <text class="sub-light" x="725" y="165" text-anchor="middle">Next.js SSG</text>
+  <text class="sub-light" x="725" y="180" text-anchor="middle">/ and /qa</text>
+
+  <!-- caption -->
+  <text class="sub" x="400" y="295" text-anchor="middle">AlpineGear Sales Pulse · daily refresh @ 06:00 CEST</text>
+</svg>

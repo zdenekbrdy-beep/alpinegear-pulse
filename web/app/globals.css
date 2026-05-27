@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #F5F1EA;
+  --ink: #1A1F1B;
+  --forest: #1F3D2B;
+  --moss: #4A6B3A;
+  --terracotta: #C4622D;
+  --clay: #8B4513;
+  --rust: #A0432A;
+  --bone: #E8E0D0;
+  --bone-line: #D5CCB8;
+}
+
+@theme {
+  --color-paper: var(--paper);
+  --color-ink: var(--ink);
+  --color-forest: var(--forest);
+  --color-moss: var(--moss);
+  --color-terracotta: var(--terracotta);
+  --color-clay: var(--clay);
+  --color-rust: var(--rust);
+  --color-bone: var(--bone);
+  --color-bone-line: var(--bone-line);
+
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+  --font-serif: var(--font-fraunces), Georgia, serif;
+  --font-mono: var(--font-mono), ui-monospace, monospace;
+
+  --container-dashboard: 1280px;
+}
+
+html, body { background: var(--paper); color: var(--ink); }
+
+@keyframes synced-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.45; }
+}
+.synced-pulse { animation: synced-pulse 2.4s ease-in-out infinite; }
