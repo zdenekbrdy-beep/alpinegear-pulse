@@ -13,7 +13,7 @@ SCOPES = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
 
 
 def _build_service() -> Any:
-    key_json = os.environ["GOOGLE_SA_KEY"]
+    key_json = os.environ["GOOGLE_SA_KEY"].lstrip("﻿")
     info = json.loads(key_json)
     creds = service_account.Credentials.from_service_account_info(info, scopes=SCOPES)
     return build("sheets", "v4", credentials=creds, cache_discovery=False)
