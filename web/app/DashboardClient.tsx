@@ -163,7 +163,7 @@ export function DashboardClient({ snapshot }: { snapshot: Snapshot }) {
 
       <footer className="border-t border-bone-line mt-16">
         <div className="max-w-dashboard mx-auto px-6 py-6 flex items-center justify-between text-xs font-mono text-ink/60">
-          <span>Built by Zdeněk Brdy · <a className="underline" href="https://zdenekbradac.vercel.app">zdenekbradac.vercel.app</a></span>
+          <span>Built by Zdeněk Bradáč · <a className="underline" href="https://zdenekbradac.vercel.app">zdenekbradac.vercel.app</a></span>
           <span>
             <a className="underline mr-4" href="/qa">QA: unmatched ad spend</a>
             <a className="underline" href="https://github.com/zdenekbrdy-beep/alpinegear-pulse">GitHub repo</a>

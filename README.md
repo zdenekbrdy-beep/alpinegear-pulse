@@ -1,6 +1,6 @@
 # AlpineGear · Sales Pulse
 
-Branded daily-refreshing sales and ad-spend dashboard for AlpineGear, an outdoor retail demo brand. Built as a portfolio piece by Zdeněk Brdy.
+Branded daily-refreshing sales and ad-spend dashboard for AlpineGear, an outdoor retail demo brand. Built as a portfolio piece by Zdeněk Bradáč.
 
 **Live demo:** https://alpinegear-pulse.vercel.app
 **Loom walkthrough:** (added after recording)
