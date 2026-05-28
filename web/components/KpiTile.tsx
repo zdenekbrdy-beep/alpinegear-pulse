@@ -18,10 +18,10 @@ export function KpiTile({ label, value, prevValue, currentNumeric, unit }: Props
                   : "text-ink/40";
   const arrow = delta?.direction === "up" ? "▲" : delta?.direction === "down" ? "▼" : "—";
   return (
-    <div className="bg-bone/40 border border-bone-line rounded-xl p-6">
+    <div className="bg-bone/40 border border-bone-line rounded-xl px-5 py-6 overflow-hidden">
       <p className="font-mono text-[11px] uppercase tracking-wider text-ink/60">{label}</p>
-      <p className="font-serif text-[clamp(1.5rem,1.6vw+0.6rem,2.25rem)] text-ink mt-2 leading-tight tracking-tight tabular-nums whitespace-nowrap">
-        {value}{unit && <span className="text-base text-ink/50 ml-1">{unit}</span>}
+      <p className="font-serif text-[1.5rem] xl:text-[1.75rem] text-ink mt-2 leading-tight tracking-tight tabular-nums whitespace-nowrap">
+        {value}{unit && <span className="text-sm text-ink/50 ml-1">{unit}</span>}
       </p>
       {delta && (
         <p className={`font-mono text-xs mt-2 ${arrowColor}`}>
