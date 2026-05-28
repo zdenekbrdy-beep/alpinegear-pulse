@@ -3,7 +3,7 @@ import path from "node:path";
 import type { Snapshot } from "./types";
 
 export function loadSnapshot(): Snapshot {
-  const p = path.join(process.cwd(), "..", "data", "snapshot.json");
+  const p = path.join(process.cwd(), "public", "snapshot.json");
   if (!fs.existsSync(p)) {
     return { generated_at: new Date().toISOString(), products: [], daily: [], unmatched_ad_spend: [] };
   }
