@@ -20,7 +20,7 @@ export function KpiTile({ label, value, prevValue, currentNumeric, unit }: Props
   return (
     <div className="bg-bone/40 border border-bone-line rounded-xl p-6">
       <p className="font-mono text-[11px] uppercase tracking-wider text-ink/60">{label}</p>
-      <p className="font-serif text-4xl text-ink mt-2 leading-tight">
+      <p className="font-serif text-[clamp(1.5rem,1.6vw+0.6rem,2.25rem)] text-ink mt-2 leading-tight tracking-tight tabular-nums whitespace-nowrap">
         {value}{unit && <span className="text-base text-ink/50 ml-1">{unit}</span>}
       </p>
       {delta && (
